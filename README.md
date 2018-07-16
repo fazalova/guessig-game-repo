@@ -1,3 +1,4 @@
 # This is the guessing game!
-Mon Jul 16 01:55:26 BST 2018
+Mon Jul 16 02:12:17 BST 2018
+The number of lines in guessinggame.sh file is:
 24
